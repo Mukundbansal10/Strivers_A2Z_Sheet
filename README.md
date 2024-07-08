@@ -54,9 +54,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ---
 
 Happy Coding!
-```
-
-### Instructions:
-
-1. Replace `https://github.com/Mukundbansal10/Strivers_A2Z_Sheet.git` with the actual URL of your GitHub repository if it's different.
-2. Ensure the folder structure and instructions align with how you've set up your repository.
