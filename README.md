@@ -1,6 +1,3 @@
-Sure! Here's the updated README file:
-
-```markdown
 # Striver's A2Z DSA Sheet Solutions
 
 Welcome to my repository where I solve problems from Striver's A2Z DSA Sheet. This sheet covers a comprehensive set of Data Structures and Algorithms (DSA) problems, aimed at helping you build a strong foundation in DSA.
